@@ -1,0 +1,6 @@
+package: github.com/michaelmikh/addreality_test
+import:
+- package: github.com/jmoiron/sqlx
+- package: github.com/lib/pq
+- package: github.com/go-redis/redis
+  version: ~6.5.2

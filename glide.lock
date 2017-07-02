@@ -1,0 +1,14 @@
+hash: 2927005bc8a7bfcf0b617d8ceca6dfb36c95573bb2f240d67567cc9c46817fc8
+updated: 2017-07-01T23:30:33.199909523+03:00
+imports:
+- name: github.com/go-redis/redis
+  version: 564772f045d89bd55843d7dc8042e0a599401e09
+- name: github.com/jmoiron/sqlx
+  version: d9bd385d68c068f1fabb5057e3dedcbcbb039d0f
+  subpackages:
+  - reflectx
+- name: github.com/lib/pq
+  version: 8837942c3e09574accbc5f150e2c5e057189cace
+  subpackages:
+  - oid
+testImports: []
