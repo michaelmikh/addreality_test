@@ -1,0 +1,5 @@
+{
+    "redis_address": "localhost:6379",
+    "redis_password": "",
+    "redis_db": 0
+}

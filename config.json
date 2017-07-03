@@ -3,15 +3,5 @@
     "metric2": 10,
     "metric3": 20,
     "metric4": 30,
-    "metric5": 40,
-    "PostgreSQL": {
-        "db_username": "USERNAME",
-        "db_password": "PASSWORD",
-        "db_name": "DBNAME"
-    },
-    "Redis": {
-        "redis_address": "localhost:6379",
-        "redis_password": "",
-        "redis_db": 0
-    }
+    "metric5": 40
 }
